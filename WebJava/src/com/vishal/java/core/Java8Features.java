@@ -7,4 +7,8 @@ public class Java8Features {
 
 	}
 
+	private class innerClass{
+
+	}
+
 }
